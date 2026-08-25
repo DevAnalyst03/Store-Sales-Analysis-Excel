@@ -32,5 +32,9 @@ The analysis helps identify important sales trends, high-performing products, an
 ## 📁 Project File
 - `Store Sales Analysis.xlsx` — Complete Excel analysis and dashboard
 
+## 📸 Dashboard Preview
+
+![Store Sales Dashboard](dashboard.png)
+
 ## 🚀 Conclusion
 This project demonstrates the use of Microsoft Excel for data analysis, visualization, and business decision-making.
